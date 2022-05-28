@@ -51,8 +51,8 @@
 	"Country I wish to visit":"the USA"
 	}
 
- 14. Создать файл sklls.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON
-	
+ 14. Создать файл skills.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON
+	touch skills.json
 	{
 	"one":"Terminal",
 	"two":"GIT",
