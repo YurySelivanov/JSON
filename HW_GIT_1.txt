@@ -83,4 +83,4 @@
 	Commit changes
 
  20. Синхронизировать внешний и локальный репозиторий JSON
-	git pull
+	git pull 
