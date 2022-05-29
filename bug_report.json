@@ -1,6 +1,6 @@
 {
   "ID":2233,
-  "Summury":"Main page: button orders doesn't translate after choose arabic language",
+  "Summary":"Main page: button orders doesn't translate after choose arabic language",
   "Description" {
     "Result":"button orders doesn't translate after choose arabic language",
     "EXP result":"All page is translated into arabic language"
@@ -8,7 +8,7 @@
   "STR": {
     1:"Download site",
     2:"Log in to the system",
-    3:"Of the dropdown Languages choose arabic language"
+    3:"Of the dropdown Languages choose arabic language",
     4:"Click to the button Save"
     },
   "Severity":"Trivial",
